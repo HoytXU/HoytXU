@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently doing my MPhil in Computer Science, exploring generative AI — especially in the world of 3D generation and shape programs.  
+🧠 "Coding should be my tool of expressing". I developed this coding philosophy from this very single line. "我表达了自己，我获得了生命 -舒婷". 
+📝 You can get to know more about me from my [personal website](https://hoytxu.me). Also I maintain a [blog](https://paradoxs-blog.super.site/) — well, more like a curated slice of my Notion notes. I selectively publish the Notion notes I believe will be most helpful to others. Probably you might also find something useful there 👀  
+💬 Talk to me about GenAI research, or life as a queer coder/researcher in China.  
+😄 Pronouns: he/him  
+🎮 Fun fact: When I was younger(undergraduate), I was a fan of roguelike games and survival crafting chaos. (3K+ hours on Steam, not proud — okay, maybe a little).

@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently doing my MPhil in Computer Science, exploring generative AI — especially in 3D generation.  
-- 🧠 "Coding should be my tool of expressing".  
-- 📝 You can know me from [here](https://hoytxu.me). Also I maintain a [blog](https://paradoxs-blog.super.site/) -- Just some of my Notion notes. Probably you might find something useful there 👀  
+- 🧠 "Coding should be my tool of expressing".    
 - 💬 Talk to me about GenAI research.  
 - 😄 Pronouns: he/him  
-- 🎮 Fun fact: When I was younger(undergraduate), I was a fan of roguelike games and survival crafting chaos. (3K+ hours on Steam, not proud — okay, maybe a little).
+- 📝 You can know me from [here](https://hoytxu.me). Also I maintain a [blog](https://paradoxs-blog.super.site/) -- Just some of my Notion notes. Probably you might find something useful there 👀

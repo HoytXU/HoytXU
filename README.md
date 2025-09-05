@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🧠 "Coding should be my tool of expressing".    
 - 💬 Talk to me about GenAI research.  
 - 😄 Pronouns: he/him  
-- 📝 You can know me from [here](https://hoytxu.me). Also I maintain a [blog](https://paradoxs-blog.super.site/) -- Just some of my Notion notes. Probably you might find something useful there 👀
+- 📝 You can know me from [here](https://hoytxu.me). Also I maintain a [blog](https://blog.hoytxu.me/) -- Just some of my Notion notes. Probably you might find something useful there 👀

@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently doing my MPhil in Computer Science, exploring generative AI — especially in 3D generation.  
-- 🧠 "Coding should be my tool of expressing".    
-- 💬 Talk to me about GenAI research.  
+- 🌱 I’m currently doing my MPhil in Computer Science, Computer Graphics specifically. Before that, I got my B.E from Sun Yat-sen University in China.  
+- 🧠 There has been a lot of stereotypes towards Chinese STEM students, but I hate to be perceived as a tech nerd. "By expressing yourself, you come to life." I believe coding should be my tool of expressing.   
+- 💬 Before I decided to dive into [CG reseach](https://hoytxu.me/cg-research-map/), I used to waste a lot of my time in GenAI. Including several ML courses, a summer exchange to NUS, and even an internship. Why I decided to make a change? Well, after my intership I feel that an over-work dataset engineer who'll lose his job and replaced at his 35s is never the life I wished for. So I jumpped out, and switch my future path towards something I feel more interested in.
 - 😄 Pronouns: he/him  
 - 📝 You can know me from [here](https://hoytxu.me). Also I maintain a [blog](https://blog.hoytxu.me/) -- Just some of my Notion notes. Probably you might find something useful there 👀

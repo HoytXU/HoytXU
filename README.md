@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 - 🧠 There has been a lot of stereotypes towards Chinese STEM students, but I hate to be perceived as a tech nerd. "By expressing yourself, you come to life." I believe coding should be my tool of expressing.
      
-- 💬 Before I decided to dive into [cg reseach](https://hoytxu.me/cg-research-map/), I used to waste a lot of my time in GenAI. Including several ML, CV courses, a summer exchange to NUS, and even an internship. Why I decided to make a change? Well, after my intership I feel that an over-work dataset engineer who'll lose his job and replaced at his 35s is never the life I wished for. So I jumpped out, and switch my future path towards something I feel more interested in.
+- 💬 Before I decided to dive into [cg reseach](https://hoytxu.me/cg-research-map/), I spent a lot of my time in studying GenAI. Including several ML, CV courses, a summer exchange to NUS, and even an internship. 
 
 - 😄 Pronouns: he/him  
 

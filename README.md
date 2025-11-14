@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently doing my MPhil in Computer Science, Computer Graphics specifically. Before that, I got my B.E from Sun Yat-sen University in China.
+- 🌱 I’m currently doing my MPhil in Computer Science, Physical Simulation in Computer Graphics specifically. Before that, I got my B.E in CS from Sun Yat-sen University in China.
   
-- 🧠 There has been a lot of stereotypes towards Chinese STEM students, but I hate to be perceived as a tech nerd. "By expressing yourself, you come to life." I believe coding should be my tool of expressing.
+- 🧠 "By expressing yourself, you come to life." I learn all my skills with a aim to deliver myself to the world.
      
-- 💬 Before I decided to dive into [cg reseach](https://hoytxu.me/cg-research-map/), I spent a lot of my time in studying GenAI. Including several ML, CV courses, a summer exchange to NUS, and even an internship. 
+- 💬 Before I decided to dive into [cg reseach](https://hoytxu.me/cg-research-map/), I spent a long time studying GenAI stuff(That's the research I have access to at that time.) Including several ML, CV courses, a summer exchange to NUS, and even an internship. 
 
 - 😄 Pronouns: he/him  
 

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 - 🧠 "By expressing yourself, you come to life." I learn all my skills with a aim to deliver myself to the world.
      
-- 💬 Before I decided to dive into [cg reseach](https://hoytxu.me/cg-research-map/), I spent a long time studying GenAI stuff(That's the research I have access to at that time.) Including several ML, CV courses, a summer exchange to NUS, and even an internship. 
+- 💬 Before I decided to dive into [cg reseach](https://hoytxu.me/cg-research-map/), I spent a long time studying Vision&GenAI stuff(That's the research I have access to at that time.) Including several ML, CV courses, a summer exchange to NUS, and even an internship. 
 
 - 😄 Pronouns: he/him  
 
